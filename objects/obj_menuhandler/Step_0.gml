@@ -6,4 +6,4 @@ if circlescale > 1200
 {
 	room_goto(Room2)
 }
-camera_set_view_pos(view_camera[0],mouse_x/150 * -1,mouse_y/150 * -1);
+camera_set_view_pos(view_camera[0],mouse_x/100,mouse_y/100);
