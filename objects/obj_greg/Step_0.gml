@@ -1,0 +1,1 @@
+circlescale = lerp(circlescale,0,0.1)
