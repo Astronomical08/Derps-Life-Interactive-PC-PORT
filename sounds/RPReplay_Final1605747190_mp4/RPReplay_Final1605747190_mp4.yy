@@ -12,8 +12,8 @@
   "duration":23.640816,
   "name":"RPReplay_Final1605747190_mp4",
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

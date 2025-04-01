@@ -12,8 +12,8 @@
   "duration":0.023401,
   "name":"pop",
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

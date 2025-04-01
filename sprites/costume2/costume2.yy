@@ -44,8 +44,8 @@
   },
   "origin":4,
   "parent":{
-    "name":"Derp's Life Interactive",
-    "path":"Derp's Life Interactive.yyp",
+    "name":"Menu",
+    "path":"folders/Sprites/Menu.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
