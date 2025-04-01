@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"Scrach2GMLfunctions",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Scrach2GMLfunctions",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
